@@ -1,14 +1,14 @@
-This repository contains TorBrowser Releases.
+上传你的文件……gettorbrowser
 
-TorBrowser releases are stored in a separate branch: https://github.com/TheTorProject/gettorbrowser/tree/torbrowser-releases
+我们不支持这种文件类型。在
 
-Tor Project official download page is: https://www.torproject.org/download
+上传你的文件……gettorbrowser
 
-Gettor code lives on Tor git: https://gitweb.torproject.org/gettor.git
+我们不支持这种文件类型。在
 
-# THIS REPOSITORY IS NOT BEING MONITORED FOR ISSUES.
+#另一份文件。GIF、JPEG、JPG、MOV、MP4、PNG、SVG或WEBM提交更改。
 
-Please file bug reports on Tor's bug tracker, https://gitlab.torproject.org/
-For Tor Browser, specifically, bugs are tracked here: https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/
+再试一次师父
+有取消更改
 
-For discussions and support, please use the [Tor Forum](https://forum.torproject.org/).
+再试一次预演
